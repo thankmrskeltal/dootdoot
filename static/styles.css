@@ -1,3 +1,8 @@
+html * {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  background-color: Cyan;
+}
+
 .left {
   text-align: left;
   margin-left: 1em;
