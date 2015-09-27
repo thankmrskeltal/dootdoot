@@ -33,7 +33,7 @@ app.get('/', function (req, res) {
 app.get('/thank', function(req, res) {
   res.json({
     good_bones: true,
-    calcium: 100
+    calcium: Math.floor(Math.random() * 1000)
   });
 });
 
