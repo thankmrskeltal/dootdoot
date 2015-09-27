@@ -1,0 +1,23 @@
+{
+  "name": "engagement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.10.3",
+    "express-handlebars": "^1.1.0",
+    "forever": "^0.13.0",
+    "handlebars": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:jmenashe/engagement.git"
+  }
+}
